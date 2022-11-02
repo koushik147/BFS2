@@ -1,3 +1,6 @@
+
+#TimeComplexity: O(mn)
+#SpaceComplexity: O(n)
 class Solution:
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
         m=len(mat) # storing row length
