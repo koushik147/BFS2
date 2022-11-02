@@ -1,3 +1,6 @@
+
+#TimeComplexity: O(mn)
+#SpaceComplexity: O(n)
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         m=len(grid) # setting row length
